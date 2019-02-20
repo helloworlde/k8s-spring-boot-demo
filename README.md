@@ -110,4 +110,4 @@ spec:
 kubectl apply -f k8s-service.yaml
 ```
 
-- 等待服务启动之后访问 `${NodeIP}:30090`，会返回 `Hello Kubernetes`，部署完成
+- 等待服务启动之后访问 `${NodeIP}:30002`，会返回 `Hello Kubernetes`，部署完成
